@@ -1,0 +1,24 @@
+.text {
+	font-family: Raleway;
+}
+
+.alles {
+	display: inline-block;
+	background-color: #ddffde;
+	text-align: center;
+	width: 100%;
+	padding: 5% 0%;
+}
+
+.headers {
+  font-size: 40px;
+  font-family: Oswald;
+}
+
+.download {
+    display: inline-block;
+    padding: 5% 0%;
+}
+
+
+
